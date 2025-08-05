@@ -25,14 +25,6 @@ export const data = [
   },
   {
     id: 4,
-    firstName: "Harish",
-    lastName: "Sadaram",
-    email: "harish@gmail.com",
-    contact: 9439039020,
-    role: "Full Stack Developer",
-  },
-  {
-    id: 5,
     firstName: "Chiru",
     lastName: "Yeduvaka",
     email: "chiru@gmail.com",
@@ -40,7 +32,7 @@ export const data = [
     role: "Marketing Manger",
   },
   {
-    id: 6,
+    id: 5,
     firstName: "Venky",
     lastName: "Reddy",
     email: "venky@gmail.com",
